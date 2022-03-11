@@ -1,5 +1,5 @@
 # TronFinexbot - chat bot
-It is repository for chat bot: [@TronUniverseV1Bot](https://t.me/TronFinexbot)
+It is repository for chat bot: [@TronFinexBot](https://t.me/TronFinexbot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.

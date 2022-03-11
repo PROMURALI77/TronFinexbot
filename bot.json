@@ -2,5 +2,5 @@
   "bb_sync_version":"1.0",
   "name":"Tron Finex",
   "csv_url":null,
-  "git_remote":".git"
+  "git_remote":"https://github.com/PROMURALI77/TronFinexbot.git"
 }
